@@ -1,9 +1,5 @@
 # copr-dmorgado
 
-    https://copr.fedorainfracloud.org/coprs/<username>/<coprname>/package/<package_name>/status_image/last_build.png
-    https://copr.fedorainfracloud.org/coprs/g/<group_name>/<coprname>/package/<package_name>/status_image/last_build.png
-
-
 ### My Repo is at:
 https://copr.fedorainfracloud.org/coprs/dmorgado/myel7.repo/repo/epel-7/dmorgado-myel7.repo-epel-7.repo
 
